@@ -1,3 +1,2 @@
-np_utils
-Image
-np
+# np
+# PyQt5

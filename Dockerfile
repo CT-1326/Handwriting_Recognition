@@ -10,5 +10,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 CMD ["index.py"]
-
 ENTRYPOINT ["python3"]
